@@ -1,6 +1,6 @@
 {
     "name": "anki",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
     "author": {
         "name": "Danny Doza",

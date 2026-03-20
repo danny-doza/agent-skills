@@ -10,15 +10,26 @@
     },
     "plugins": [
         {
-        "name": "anki",
-        "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
-        "version": "1.0.0",
-        "author": {
-            "name": "Danny Doza"
+            "name": "anki",
+            "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
+            "version": "1.0.0",
+            "author": {
+                "name": "Danny Doza"
+            },
+            "source": "./plugins/anki",
+            "category": "utilities",
+            "tags": ["skills", "automation"]
         },
-        "source": "./plugins/anki",
-        "category": "utilities",
-        "tags": ["skills", "automation"]
+        {
+            "name": "obsidian-excalidraw",
+            "description": "Obsidian Excalidraw skills based on the Obsidian Excalidraw docs found here: https://zsviczian.github.io/obsidian-excalidraw-plugin/API/introduction.html",
+            "version": "1.0.0",
+            "author": {
+                "name": "Danny Doza"
+            },
+            "source": "./plugins/obsidian-excalidraw",
+            "category": "utilities",
+            "tags": ["obsidian", "excalidraw", "drawing"]
         }
     ]
 }

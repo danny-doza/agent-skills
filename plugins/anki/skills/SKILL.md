@@ -154,3 +154,9 @@ deck:"My Deck" tag:physics OR tag:chemistry
 - **Duplicates** — `add_notes` with `allow_duplicate: false` (default) skips duplicates and reports them without failing the batch.
 - **Update while browsing** — `update_note_fields` fails if the note is open in Anki's card browser. The user must close or navigate away first.
 - **Deletion is permanent** — pass `confirmDeletion: true` explicitly; there is no undo.
+
+---
+
+## Reference
+
+For complete tool schemas, parameter tables, FSRS scheduler tools, media operations, and GUI tools, see [references/API.md](references/API.md).

@@ -1,0 +1,11 @@
+{
+    "name": "obsidian-excalidraw",
+    "version": "1.0.0",
+    "description": "Obsidian Excalidraw skills based on the Obsidian Excalidraw docs found here: https://zsviczian.github.io/obsidian-excalidraw-plugin/API/introduction.html",
+    "author": {
+        "name": "Danny Doza",
+        "email": "danny.doza@outlook.com"
+    },
+    "license": "MIT",
+    "keywords": ["obsidian", "excalidraw", "drawing"]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "doza-skills",
+    "owner": {
+        "name": "Danny Doza",
+        "email": "danny.doza@outlook.com"
+    },
+    "metadata": {
+        "description": "MCP Agent Skills",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+        "name": "anki-mcp-server",
+        "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
+        "version": "1.0.0",
+        "author": {
+            "name": "Danny Doza"
+        },
+        "source": "./plugins/anki-mcp-server",
+        "category": "utilities",
+        "tags": ["skills", "automation"]
+        }
+    ]
+}

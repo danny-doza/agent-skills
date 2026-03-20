@@ -1,0 +1,11 @@
+{
+    "name": "anki-mcp-server",
+    "version": "1.0.0",
+    "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
+    "author": {
+        "name": "Danny Doza",
+        "email": "danny.doza@outlook.com"
+    },
+    "license": "MIT",
+    "keywords": ["anki", "notes", "study"]
+}

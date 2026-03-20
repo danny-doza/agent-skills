@@ -4,13 +4,13 @@ description: >
   Use this skill whenever Anki flashcards are involved in any way — creation, review, editing, deck
   management, or study sessions. Trigger on phrases like "make flashcards", "add to Anki", "create
   cards", "study with Anki", "review cards", "add a deck", or whenever a learning context implies
-  spaced repetition. This skill uses the mcp__anki__* tools from the ankimcp/anki-mcp-server add-on
+  spaced repetition. This skill uses the mcp__anki__* tools from the ankimcp/anki add-on
   (AnkiWeb ID 124672614) — NOT the older AnkiConnect protocol.
 ---
 
 # Anki MCP Skill
 
-Interface for the **ankimcp MCP server** (AnkiWeb add-on 124672614, `@ankimcp/anki-mcp-server`).
+Interface for the **ankimcp MCP server** (AnkiWeb add-on 124672614, `@ankimcp/anki`).
 Tools are prefixed `mcp__anki__*` and communicate with Anki over AnkiConnect on port 8765.
 
 ---

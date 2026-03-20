@@ -1,4 +1,4 @@
-# anki-mcp-server
+# anki
 
 ## Description
 
@@ -34,7 +34,7 @@ Ensure that:
 
 ```bash
 claude plugin marketplace add danny-doza/agent-skills
-claude plugin install anki-mcp-server@doza-skills
+claude plugin install anki@doza-skills
 ```
 
 ### npx skills

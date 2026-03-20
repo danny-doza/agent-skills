@@ -27,6 +27,6 @@ If using Claude/Cowork plugin system:
 
 ## Skills Available
 
-### anki-mcp-server
+### anki
 
 Provides seamless integration with Anki via AnkiConnect, enabling the assistant to interact directly with your Anki collection.

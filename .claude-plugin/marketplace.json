@@ -10,13 +10,13 @@
     },
     "plugins": [
         {
-        "name": "anki-mcp-server",
+        "name": "anki",
         "description": "Anki MCP Server skills based on the Anki MCP Server docs found here: https://ankiweb.net/shared/info/124672614",
         "version": "1.0.0",
         "author": {
             "name": "Danny Doza"
         },
-        "source": "./plugins/anki-mcp-server",
+        "source": "./plugins/anki",
         "category": "utilities",
         "tags": ["skills", "automation"]
         }
